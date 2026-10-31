@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: carepulse-doc-booking
+    env: static
+    buildCommand: ""
+    staticPublishPath: .
